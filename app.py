@@ -73,7 +73,7 @@ def paint_history():
         )
 
 
-def load_message():
+def load_history():
     # GPT code 내 방식대로 바꿔볼 것
     converted_history = []
     for msg in st.session_state["messages"]:
