@@ -117,7 +117,6 @@ numexpr==2.8.5
 numpy==1.26.0
 olefile==0.46
 omegaconf==2.3.0
-onnx==1.14.1
 onnxruntime==1.16.0
 openai==0.28.0
 opencv-python==4.8.0.76
