@@ -26,6 +26,7 @@ charset-normalizer==3.2.0
 chroma-hnswlib==0.7.3
 chromadb==0.4.11
 click==8.1.7
+cmake==3.31.4
 coloredlogs==15.0.1
 comm==0.1.4
 confection==0.1.3
