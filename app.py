@@ -117,7 +117,9 @@ prompt = ChatPromptTemplate.from_messages(
 
 
 with st.sidebar:
+    st.write("https://github.com/seungchan0324/FullStackGPT_Challenge")
     key = st.text_input("pls give me ur API Key!")
+
 
 if key:
 
